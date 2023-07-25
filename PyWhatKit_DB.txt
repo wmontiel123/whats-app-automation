@@ -1,0 +1,15 @@
+Date: 25/7/2023
+Time: 16:26
+Group ID: LyY8jnWnPYKKuUcCcHiQgg
+Message: Mensaje
+--------------------
+Date: 25/7/2023
+Time: 16:28
+Group ID: LyY8jnWnPYKKuUcCcHiQgg
+Message: Mensaje de prueba
+--------------------
+Date: 25/7/2023
+Time: 16:34
+Group ID: LBim9pr1HCzClxNFhassDO
+Message: Mensaje de prueba enviado con python
+--------------------
